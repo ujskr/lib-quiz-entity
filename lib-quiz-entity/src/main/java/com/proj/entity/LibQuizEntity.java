@@ -1,4 +1,4 @@
-package com.proj.auth.entity;
+package com.proj.entity;
 
 public class LibQuizEntity 
 {

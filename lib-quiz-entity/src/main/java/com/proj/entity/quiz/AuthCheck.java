@@ -1,4 +1,4 @@
-package com.proj.auth.entity.quiz;
+package com.proj.entity.quiz;
 
 import java.io.Serializable;
 
